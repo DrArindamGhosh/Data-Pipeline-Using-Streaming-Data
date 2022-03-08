@@ -1,4 +1,5 @@
-# Stream Data From Flask To Postgres
+# Stream Data From Flask To PostgreSQL
+
 A tutorial on streaming data from a Flask REST API and streaming the response into PostgreSQL
 
 ![](streaming.gif)
