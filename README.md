@@ -42,4 +42,3 @@ Expect lots of lines of output written to the console,
 ```sql
 select count(*) from transactions
 ```
-
