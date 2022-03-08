@@ -1,6 +1,3 @@
-# Data-Pipeline-Using-Streaming-Data
-To create streaming data pipeline using Flask via interaction with PostgreSQL
-
 # Stream Data From Flask To Postgres
 A tutorial on streaming data from a Flask REST API and streaming the response into PostgreSQL
 
@@ -42,3 +39,4 @@ Expect lots of lines of output written to the console,
 ```sql
 select count(*) from transactions
 ```
+
